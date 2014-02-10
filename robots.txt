@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://nemoTry.github.io//github/sitemap.xml 
+Sitemap: http://nemoTry.github.io/sitemap.xml 
