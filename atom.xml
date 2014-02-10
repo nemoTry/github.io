@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Nemo's Blog]]></title>
+  <link href="http://nemoTry.github.io//github/atom.xml" rel="self"/>
+  <link href="http://nemoTry.github.io//github/"/>
+  <updated>2014-02-10T18:15:32+08:00</updated>
+  <id>http://nemoTry.github.io//github/</id>
+  <author>
+    <name><![CDATA[Nemo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
